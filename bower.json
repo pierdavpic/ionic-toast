@@ -1,8 +1,9 @@
 {
   "name": "ionic-toast",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "authors": [
-    "rajeshwarpatlolla <rajeshwar.patlolla@gmail.com>"
+    "rajeshwarpatlolla <rajeshwar.patlolla@gmail.com>",
+	"pierdavpic <pierdavpic@gmail.com>"
   ],
   "description": "'ionic-toast' bower component for ionic framework applications",
   "main": [
@@ -16,7 +17,7 @@
     "toast for ionic framework"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/rajeshwarpatlolla/ionic-toast",
+  "homepage": "https://github.com/pierdavpic/ionic-toast",
   "ignore": [
     "**/.*",
     "node_modules",
