@@ -1,6 +1,6 @@
 {
   "name": "ionic-toast",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "A toast for IONIC framework",
   "main": "./dist/ionic-toast.bundle.min.js",
   "scripts": {},
