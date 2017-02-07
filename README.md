@@ -11,6 +11,14 @@ This is an `ionic-toast` bower component which can be used with any Ionic framew
 
 **1)** node.js, bower and gulp.
 
+## Build
+
+gulp build
+git tag -a vx.x.x -m "xxxxxxxxxxx"
+git commit -a -m "xxxx"
+git push origin vx.x.x
+
+
 ## How to use:
 
 **1)** In your project repository install the ionic-toast using bower
